@@ -3,3 +3,4 @@ python-dotenv
 openai
 aiohttp
 requests
+uvicorn[standard]==0.24.0
